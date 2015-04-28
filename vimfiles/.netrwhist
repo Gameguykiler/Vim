@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='c:/users/class2018/documents/github/stevens/CS 182'
+let g:netrw_dirhist_2='c:/users/class2018/documents/github/stevens/CS 182/Final Project'
+let g:netrw_dirhist_3='c:/users/class2018/documents/github/stevens/CS 182'
+let g:netrw_dirhist_4='c:/users/class2018/documents/github/stevens/CS 182/Final Project'
+let g:netrw_dirhist_5='C:/Program Files/Vim'
+let g:netrw_dirhist_6='C:/Program Files/Vim/vim74'
+let g:netrw_dirhist_7='c:/users/class2018/documents/github/stevens/CS 182/Final Project'
+let g:netrw_dirhist_8='c:/users/class2018/documents/github/stevens/cs 182/Final Project'
