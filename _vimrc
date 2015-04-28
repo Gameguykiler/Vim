@@ -19,6 +19,9 @@ filetype on
 filetype indent on
 filetype plugin on
 
+let g:session_autosave = 'yes'
+let g:session_autoload = 'yes'
+
 let g:molokai_original = 1
 colorscheme molokai
 
